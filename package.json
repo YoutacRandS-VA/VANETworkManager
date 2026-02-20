@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@astrojs/cloudflare": "^11.1.0",
+    "@astrojs/cloudflare": "^12.6.6",
     "@asyncapi/problem": "^1.0.0",
     "@cloudflare/kv-asset-handler": "^0.3.4",
     "@cloudflare/next-on-pages": "^1.13.3",
@@ -24,7 +24,7 @@
     "descend-optionalchain": "^1.0.0",
     "env-ci": "^11.1.0",
     "github-markdown-css": "^5.6.1",
-    "hono": "^4.6.2",
+    "hono": "^4.11.10",
     "hosted-git-info": "^8.0.0",
     "inflate-object-spread": "^0.0.4",
     "itty-router": "^5.0.18",
